@@ -12,6 +12,7 @@ import static io.harness.jhttp.LambdaUtils.curry;
 
 /**
  * This processor rende the {@code index.htm[l]} file, if it exists in the requested directory.
+ * This processor render the {@code index.htm[l]} file, if it exists in the requested directory.
  * 
  *
  */
