@@ -1,0 +1,1508 @@
+Commit number 681    :  fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
+ fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+
+    * fix the hover menu icon size and color
+
+    * fix asset description line height
+
+    * remove card border on hovering
+
+    * fix suggestion padding
+
+    * fix conversation nav styles
+
+    * fix icon color
+
+    * fix the conversations nav padding issue
+
+    * fix min width to 420px
+
+    * fix line height
+
+    * remove border color in hover state
+
+    * fix autocomplete item type background color
+
+    * Latest Protobuf files
