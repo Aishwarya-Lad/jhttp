@@ -1,1 +1,2 @@
 Commit number 25    :  fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
+Commit number 25    :  fix: ux fitness issues -- Jira ID: CGPT-6174 (#588)
