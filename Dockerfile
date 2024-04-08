@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM aishwaryalad/ash-test2:1.2.3
 
 # Copy the example.txt file into the root directory of the container
 COPY image.txt /
