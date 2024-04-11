@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine3.9
+FROM utkarshagupte/test-kaniko:latest
 LABEL maintainer="Shivakumar Ningappa <shivagowda@gmail.com>"
 
 
