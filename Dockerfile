@@ -1,4 +1,4 @@
-FROM utkarshagupte/test-kaniko:latest
+FROM aishwaryalad/test-private:latest
 
 # Copy the example.txt file into the root directory of the container
 COPY image.txt /
