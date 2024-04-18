@@ -1,4 +1,4 @@
-FROM utkarshagupte/kaniko-private:100.0.3
+FROM utkarshagupte/test-kaniko:latest
 
 # Copy the example.txt file into the root directory of the container
 COPY image.txt /
