@@ -1,4 +1,4 @@
-FROM aishwaryalad/test-private:1.0.1
+FROM cherrynerdbomber/test-private:3.0.3
 
 # Copy the example.txt file into the root directory of the container
 COPY image2.txt /
