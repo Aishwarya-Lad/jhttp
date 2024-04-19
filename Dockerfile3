@@ -1,0 +1,7 @@
+FROM openjdk:8-jre-alpine3.9
+
+# Copy the example.txt file into the root directory of the container
+COPY image3.txt /
+
+# Specify the command to run when the container starts
+CMD ["cat", "/image3.txt"]
