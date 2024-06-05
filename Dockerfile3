@@ -1,5 +1,5 @@
 FROM openjdk:8-jre-alpine3.9
-
+LABEL my_label="00000"
 # Copy the example.txt file into the root directory of the container
 COPY image3.txt /
 
