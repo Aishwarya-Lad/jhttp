@@ -1,7 +1,7 @@
-FROM cherrynerdbomber/test-private:3.0.3
-
+FROM openjdk:8-jre-alpine3.9
+LABEL my_label="00000"
 # Copy the example.txt file into the root directory of the container
-COPY image2.txt /
+COPY image3.txt /
 
 # Specify the command to run when the container starts
-CMD ["cat", "/image2.txt"]
+CMD ["cat", "/image3.txt"]
