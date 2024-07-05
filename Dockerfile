@@ -1,4 +1,4 @@
-FROM harnessdev/godemo
+FROM harnessdev/godemo:51
 
 # Copy the example.txt file into the root directory of the container
 COPY image2.txt /
